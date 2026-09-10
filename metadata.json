@@ -1,0 +1,6 @@
+{
+  "name": "Mora",
+  "description": "100% offline expense and budget manager with monthly dashboard, donut chart, category budgeting, and multi-language support (Malagasy, Français, English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
